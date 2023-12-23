@@ -1,0 +1,15 @@
+body {   
+	font-family: jura;
+}
+input {
+	border-radius: 5px;	
+}
+
+button {
+	background-color: green;
+	padding : 10px 15px;
+	color : white;
+	border-radius: 5px;
+	border-color: green;
+	cursor: pointer;
+}
